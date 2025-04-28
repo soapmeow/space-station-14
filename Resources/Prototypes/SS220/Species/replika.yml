@@ -2,11 +2,12 @@
   id: Replika
   name: species-name-human
   roundStart: true
-  prototype: MobHuman
+  prototype: MobReplika
+  defaultSkinTone: "#4b4b4b"
   sprites: MobHumanSprites
   markingLimits: MobHumanMarkingLimits
   dollPrototype: MobHumanDummy
-  skinColoration: HumanToned
+  skinColoration: Hues
   buttScanTexture: /Textures/SS220/Interface/Butts/human.png
 
 # The lack of a layer means that
