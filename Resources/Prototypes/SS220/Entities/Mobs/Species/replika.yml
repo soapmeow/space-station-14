@@ -2,7 +2,7 @@
 - type: entity
   parent: BaseMobSpeciesOrganic
   id: MobReplika
-  name: Урист МакРеплика
+  name: Реплика
   abstract: true
   components:
   - type: Hunger

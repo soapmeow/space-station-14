@@ -10,12 +10,6 @@
   skinColoration: Hues
   buttScanTexture: /Textures/SS220/Interface/Butts/human.png
 
-# The lack of a layer means that
-# this person cannot have round-start anything
-# applied to that layer. It has to instead
-# be defined as a 'custom base layer'
-# in either the mob's starting marking prototype,
-# or it has to be added in C#.
 - type: speciesBaseSprites
   id: MobHumanSprites
   sprites:
